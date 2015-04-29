@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CellularAutomatonForm.AboutProgramForm">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>AboutProgramForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CellularAutomatonForm.CA_Configuration" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAACAQAAAIAACAAEACAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>CA_Configuration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CellularAutomatonForm.CadrForm">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="CellularAutomatonForm.CadrForm.step">
+        <TypeIdentifier>
+          <NewMemberFileName>CadrForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAUICABARAABgqAQDAiAAAAAAAIAYAAAAAAAAA=</HashCode>
+      <FileName>CadrForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CellularAutomatonForm.CellAutomaton">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEIAAAAAAAAAAAAAAAAAAEAAEQAAIQgAAAIAAAA=</HashCode>
+      <FileName>CellAutomaton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CellularAutomatonForm.MainForm">
+    <Position X="0.5" Y="0.5" Width="3.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="CellularAutomatonForm.MainForm.CA_Step">
+        <TypeIdentifier>
+          <NewMemberFileName>MainForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>Vxg7i/+UtD4ncJMxhjajw/KjQgg8LjQYmgxjTKlGA3U=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CellularAutomatonForm.Program">
+    <Position X="9.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CellularAutomatonForm.RandomForm">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARAAAIAAACAAABCAAgCgACACAAQAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>RandomForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CellularAutomatonForm.SaLo">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SaLo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CellularAutomatonForm.TimeForm">
+    <Position X="8.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABABAAAAACAAABCAAgCABAACAAQAAAABAAAAIAAAAAA=</HashCode>
+      <FileName>TimeForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CellularAutomatonForm.Properties.Resources">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAgEAAAAAAAAgIIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CellularAutomatonForm.Properties.Settings">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
